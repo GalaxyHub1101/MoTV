@@ -7,4 +7,9 @@
 
 a:hover{
   background-color: grey;
+  border-radius: 5px;
+}
+
+body{
+  background-color: lightblue;
 }
