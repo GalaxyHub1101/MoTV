@@ -3,11 +3,12 @@
   background-color: white;
   text-align: margin-right;
   display: block;
+  padding: 5px;
 }
 
 a:hover{
   background-color: grey;
-  border-radius: 5px;
+  border-radius: 2.5px;
   color: white;
 }
 
