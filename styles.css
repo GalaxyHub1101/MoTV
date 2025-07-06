@@ -1,0 +1,10 @@
+.nav{
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+  text-align: margin-right;
+  display: block;
+}
+
+a:hover{
+  background-color: grey;
+}
